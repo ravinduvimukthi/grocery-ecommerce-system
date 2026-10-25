@@ -8,6 +8,7 @@ $pageTitle = "Groco | Fresh Groceries";
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Shop fresh groceries, fruits, vegetables and everyday essentials.">
+        <link rel="stylesheet" href="assets/css/style.css">
     </head>
     <body>
         <head>
